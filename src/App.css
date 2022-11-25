@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  width: 90%;
+  border: 1px solid black;
+  margin: auto;
+}
+
+label {
+  display: block;
+}
